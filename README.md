@@ -12,7 +12,7 @@ A computer-vision-based sports analytics tool designed to quantify football kick
 
 | 1. System Alignment | 2. Backswing Detection | 3. Kick Analysis |
 | :---: | :---: | :---: |
-| ![Aligning](demo/00.jpg) | ![Backswing](demo/01.jpg) | ![Kick Complete](demo/02.jpg) |
+| ![Aligning](MediaPipe_Leg_Estimate/demo/00.jpg) | ![Backswing](MediaPipe_Leg_Estimate/demo/01.jpg) | ![Kick Complete](MediaPipe_Leg_Estimate/demo/02.jpg) |
 | *Waiting for 30-frame stability* | *Capturing peak flexion (loading)* | *Auto-counting & quality metrics* |
 
 ## 🚀 How It Works
